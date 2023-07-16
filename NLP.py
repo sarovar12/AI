@@ -48,7 +48,7 @@ for word, pos in pos_tags:
 
 #Footer
 print("Question no.10")
-print("Name: ")
-print("Roll no : ")
+print("Name: Sarovar Bhandari ")
+print("Roll no : 15 ")
 print("Section:A")
 
