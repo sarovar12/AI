@@ -62,6 +62,6 @@ else:
 
 #Footer
 print("Question no.9")
-print("Name: Saroj Pokharel ")
-print("Roll no : 26 ")
+print("Name: Sarovar Bhandari ")
+print("Roll no : 15 ")
 print("Section:A")

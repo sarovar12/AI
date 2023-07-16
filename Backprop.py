@@ -75,6 +75,6 @@ print(output)
 
 #Footer
 print("Question no.7")
-print("Name: Saroj Pokharel ")
-print("Roll no : 26 ")
+print("Name: Sarovar Bhandari ")
+print("Roll no : 15 ")
 print("Section:A")

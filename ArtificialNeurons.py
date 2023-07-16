@@ -43,6 +43,6 @@ print(f"NOT Gate: NOT {input1} = {not_result}")
 
 #Footer
 print("Question no.6")
-print("Name: Saroj Pokharel ")
-print("Roll no : 26 ")
+print("Name: Sarovar Bhandari ")
+print("Roll no : 15 ")
 print("Section:A")
